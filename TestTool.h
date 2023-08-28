@@ -4,4 +4,6 @@
 
 -(void)myTools;
 
+-(void)sayHello;
+
 @end
